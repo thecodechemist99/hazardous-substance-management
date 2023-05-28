@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include hazardous_item_management *.css
+recursive-include hazardous_item_management *.csv
+recursive-include hazardous_item_management *.html
+recursive-include hazardous_item_management *.ico
+recursive-include hazardous_item_management *.js
+recursive-include hazardous_item_management *.json
+recursive-include hazardous_item_management *.md
+recursive-include hazardous_item_management *.png
+recursive-include hazardous_item_management *.py
+recursive-include hazardous_item_management *.svg
+recursive-include hazardous_item_management *.txt
+recursive-exclude hazardous_item_management *.pyc

@@ -3,8 +3,10 @@ from . import __version__ as app_version
 app_name = "hazardous_item_management"
 app_title = "Hazardous Item Management"
 app_publisher = "Florian Beck"
-app_description = "This App allows easy management of hazardous item properties."
+app_description = "This app allows easy management of item’s hazardous substance properties in accordance with GHS/CLP."
+app_icon = "shield-24"
 app_email = "florian.beck@nakt.eu"
+app_version = "0.0.1"
 app_license = "MIT"
 
 # Includes in <head>

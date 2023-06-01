@@ -1,0 +1,83 @@
+[
+  {
+   "description": "Explosive",
+   "docstatus": 0,
+   "doctype": "GHS Pictogram",
+   "img": "https://symbib-light.bgrci.de/resource/images/symbols_png/ghs_001_o.png",
+   "modified": "2023-05-24 21:43:04.368976",
+   "name": "GHS 001",
+   "pictogram": "GHS 001"
+  },
+  {
+   "description": "Flammable",
+   "docstatus": 0,
+   "doctype": "GHS Pictogram",
+   "img": "https://symbib-light.bgrci.de/resource/images/symbols_png/ghs_002_o.png",
+   "modified": "2023-05-23 21:28:58.504162",
+   "name": "GHS 002",
+   "pictogram": "GHS 002"
+  },
+  {
+   "description": "Oxidizing",
+   "docstatus": 0,
+   "doctype": "GHS Pictogram",
+   "img": "https://symbib-light.bgrci.de/resource/images/symbols_png/ghs_003_o.png",
+   "modified": "2023-05-24 21:45:00.407447",
+   "name": "GHS 003",
+   "pictogram": "GHS 003"
+  },
+  {
+   "description": "Compressed Gas",
+   "docstatus": 0,
+   "doctype": "GHS Pictogram",
+   "img": "https://symbib-light.bgrci.de/resource/images/symbols_png/ghs_004_o.png",
+   "modified": "2023-05-23 21:33:25.886600",
+   "name": "GHS 004",
+   "pictogram": "GHS 004"
+  },
+  {
+   "description": "Corrosive",
+   "docstatus": 0,
+   "doctype": "GHS Pictogram",
+   "img": "https://symbib-light.bgrci.de/resource/images/symbols_png/ghs_005_o.png",
+   "modified": "2023-05-23 21:33:36.209758",
+   "name": "GHS 005",
+   "pictogram": "GHS 005"
+  },
+  {
+   "description": "Toxic",
+   "docstatus": 0,
+   "doctype": "GHS Pictogram",
+   "img": "https://symbib-light.bgrci.de/resource/images/symbols_png/ghs_006_o.png",
+   "modified": "2023-05-24 21:44:36.716441",
+   "name": "GHS 006",
+   "pictogram": "GHS 006"
+  },
+  {
+   "description": "Harmful",
+   "docstatus": 0,
+   "doctype": "GHS Pictogram",
+   "img": "https://symbib-light.bgrci.de/resource/images/symbols_png/ghs_007_o.png",
+   "modified": "2023-05-23 21:33:52.975836",
+   "name": "GHS 007",
+   "pictogram": "GHS 007"
+  },
+  {
+   "description": "Health hazard",
+   "docstatus": 0,
+   "doctype": "GHS Pictogram",
+   "img": "https://symbib-light.bgrci.de/resource/images/symbols_png/ghs_008_o.png",
+   "modified": "2023-05-23 21:31:59.640186",
+   "name": "GHS 008",
+   "pictogram": "GHS 008"
+  },
+  {
+   "description": "Environmental hazard",
+   "docstatus": 0,
+   "doctype": "GHS Pictogram",
+   "img": "https://symbib-light.bgrci.de/resource/images/symbols_png/ghs_009_o.png",
+   "modified": "2023-05-23 21:32:49.437541",
+   "name": "GHS 009",
+   "pictogram": "GHS 009"
+  }
+]

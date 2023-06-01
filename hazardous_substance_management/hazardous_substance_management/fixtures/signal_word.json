@@ -1,0 +1,16 @@
+[
+  {
+   "docstatus": 0,
+   "doctype": "Signal Word",
+   "modified": "2023-05-23 21:04:40.384294",
+   "name": "Warning",
+   "signal_word": "Warning"
+  },
+  {
+   "docstatus": 0,
+   "doctype": "Signal Word",
+   "modified": "2023-05-23 21:04:51.780078",
+   "name": "Danger",
+   "signal_word": "Danger"
+  }
+]

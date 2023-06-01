@@ -1,0 +1,890 @@
+[
+  {
+   "code": "H302",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.579104",
+   "name": "H302",
+   "phrase": "Harmful if swallowed."
+  },
+  {
+   "code": "H318",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.766466",
+   "name": "H318",
+   "phrase": "Causes serious eye damage."
+  },
+  {
+   "code": "H361d",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.990499",
+   "name": "H361d",
+   "phrase": "Suspected of damaging the unborn child."
+  },
+  {
+   "code": "H200",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:37.924855",
+   "name": "H200",
+   "phrase": "Unstable explosives."
+  },
+  {
+   "code": "H201",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:37.974053",
+   "name": "H201",
+   "phrase": "Explosive; mass explosion hazard."
+  },
+  {
+   "code": "H202",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:37.986223",
+   "name": "H202",
+   "phrase": "Explosive; severe projection hazard."
+  },
+  {
+   "code": "H203",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.007447",
+   "name": "H203",
+   "phrase": "Explosive; fire, blast or projection hazard."
+  },
+  {
+   "code": "H204",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.020975",
+   "name": "H204",
+   "phrase": "Fire or projection hazard."
+  },
+  {
+   "code": "H205",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.034968",
+   "name": "H205",
+   "phrase": "May mass explode in fire."
+  },
+  {
+   "code": "H220",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.047071",
+   "name": "H220",
+   "phrase": "Extremely flammable gas."
+  },
+  {
+   "code": "H221",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.062422",
+   "name": "H221",
+   "phrase": "Flammable gas."
+  },
+  {
+   "code": "H222",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.077753",
+   "name": "H222",
+   "phrase": "Extremely flammable aerosol."
+  },
+  {
+   "code": "H223",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.092787",
+   "name": "H223",
+   "phrase": "Flammable aerosol."
+  },
+  {
+   "code": "H224",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.104115",
+   "name": "H224",
+   "phrase": "Extremely flammable liquid and vapour."
+  },
+  {
+   "code": "H225",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.115568",
+   "name": "H225",
+   "phrase": "Highly flammable liquid and vapour."
+  },
+  {
+   "code": "H226",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.127527",
+   "name": "H226",
+   "phrase": "Flammable liquid and vapour."
+  },
+  {
+   "code": "H228",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.139652",
+   "name": "H228",
+   "phrase": "Flammable solid."
+  },
+  {
+   "code": "H229",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.152783",
+   "name": "H229",
+   "phrase": "Pressurized container: May burst if heated."
+  },
+  {
+   "code": "H230",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.165259",
+   "name": "H230",
+   "phrase": "May react explosively even in the absence of air."
+  },
+  {
+   "code": "H231",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.177610",
+   "name": "H231",
+   "phrase": "May react explosively even in the absence of air at elevated pressure and/or temperature."
+  },
+  {
+   "code": "H240",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.190004",
+   "name": "H240",
+   "phrase": "Heating may cause an explosion."
+  },
+  {
+   "code": "H241",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.202348",
+   "name": "H241",
+   "phrase": "Heating may cause a fire or explosion."
+  },
+  {
+   "code": "H242",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.215793",
+   "name": "H242",
+   "phrase": "Heating may cause a fire."
+  },
+  {
+   "code": "H250",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.229962",
+   "name": "H250",
+   "phrase": "Catches fire spontaneously if exposed to air."
+  },
+  {
+   "code": "H251",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.252305",
+   "name": "H251",
+   "phrase": "Self-heating; may catch fire."
+  },
+  {
+   "code": "H252",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.280181",
+   "name": "H252",
+   "phrase": "Self-heating in large quantities; may catch fire."
+  },
+  {
+   "code": "H260",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.299076",
+   "name": "H260",
+   "phrase": "In contact with water releases flammable gases which may ignite spontaneously."
+  },
+  {
+   "code": "H261",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.322785",
+   "name": "H261",
+   "phrase": "In contact with water releases flammable gas."
+  },
+  {
+   "code": "H270",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.356266",
+   "name": "H270",
+   "phrase": "May cause or intensify fire; oxidiser."
+  },
+  {
+   "code": "H271",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.379553",
+   "name": "H271",
+   "phrase": "May cause fire or explosion; strong oxidiser."
+  },
+  {
+   "code": "H272",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.406009",
+   "name": "H272",
+   "phrase": "May intensify fire; oxidiser."
+  },
+  {
+   "code": "H280",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.431447",
+   "name": "H280",
+   "phrase": "Contains gas under pressure; may explode if heated."
+  },
+  {
+   "code": "H281",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.443405",
+   "name": "H281",
+   "phrase": "Contains refrigerated gas; may cause cryogenic burns or injury."
+  },
+  {
+   "code": "H290",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.455800",
+   "name": "H290",
+   "phrase": "May be corrosive to metals."
+  },
+  {
+   "code": "H300",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.469993",
+   "name": "H300",
+   "phrase": "Fatal if swallowed."
+  },
+  {
+   "code": "H300+H310",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.483308",
+   "name": "H300+H310",
+   "phrase": "Fatal if swallowed or in contact with skin."
+  },
+  {
+   "code": "H300+H310+H330",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.499122",
+   "name": "H300+H310+H330",
+   "phrase": "Fatal if swallowed, in contact with skin or if inhaled."
+  },
+  {
+   "code": "H300+H330",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.514135",
+   "name": "H300+H330",
+   "phrase": "Fatal if swallowed or if inhaled."
+  },
+  {
+   "code": "H301",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.528059",
+   "name": "H301",
+   "phrase": "Toxic if swallowed."
+  },
+  {
+   "code": "H301+H311",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.539681",
+   "name": "H301+H311",
+   "phrase": "Toxic if swallowed or in contact with skin."
+  },
+  {
+   "code": "H301+H311+H331",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.552119",
+   "name": "H301+H311+H331",
+   "phrase": "Toxic if swallowed, in contact with skin or if inhaled."
+  },
+  {
+   "code": "H301+H331",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.565323",
+   "name": "H301+H331",
+   "phrase": "Toxic if swallowed or if inhaled."
+  },
+  {
+   "code": "H302+H312",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.591778",
+   "name": "H302+H312",
+   "phrase": "Harmful if swallowed or in contact with skin."
+  },
+  {
+   "code": "H302+H312+H332",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.603962",
+   "name": "H302+H312+H332",
+   "phrase": "Harmful if swallowed, in contact with skin or if inhaled."
+  },
+  {
+   "code": "H302+H332",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.616646",
+   "name": "H302+H332",
+   "phrase": "Harmful if swallowed or if inhaled."
+  },
+  {
+   "code": "H304",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.630384",
+   "name": "H304",
+   "phrase": "May be fatal if swallowed and enters airways."
+  },
+  {
+   "code": "H310",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.643917",
+   "name": "H310",
+   "phrase": "Fatal in contact with skin."
+  },
+  {
+   "code": "H310+H330",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.662463",
+   "name": "H310+H330",
+   "phrase": "Fatal in contact with skin or if inhaled."
+  },
+  {
+   "code": "H311",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.680011",
+   "name": "H311",
+   "phrase": "Toxic in contact with skin."
+  },
+  {
+   "code": "H311+H331",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.693094",
+   "name": "H311+H331",
+   "phrase": "Toxic in contact with skin or if inhaled."
+  },
+  {
+   "code": "H312",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.706215",
+   "name": "H312",
+   "phrase": "Harmful in contact with skin."
+  },
+  {
+   "code": "H312+H332",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.718878",
+   "name": "H312+H332",
+   "phrase": "Harmful in contact with skin or if inhaled."
+  },
+  {
+   "code": "H314",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.730569",
+   "name": "H314",
+   "phrase": "Causes severe skin burns and eye damage."
+  },
+  {
+   "code": "H315",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.743601",
+   "name": "H315",
+   "phrase": "Causes skin irritation."
+  },
+  {
+   "code": "H317",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.755370",
+   "name": "H317",
+   "phrase": "May cause an allergic skin reaction."
+  },
+  {
+   "code": "H319",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.778037",
+   "name": "H319",
+   "phrase": "Causes serious eye irritation."
+  },
+  {
+   "code": "H330",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.790045",
+   "name": "H330",
+   "phrase": "Fatal if inhaled."
+  },
+  {
+   "code": "H331",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.801851",
+   "name": "H331",
+   "phrase": "Toxic if inhaled."
+  },
+  {
+   "code": "H332",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.814487",
+   "name": "H332",
+   "phrase": "Harmful if inhaled."
+  },
+  {
+   "code": "H334",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.825295",
+   "name": "H334",
+   "phrase": "May cause allergy or asthma symptoms or breathing difficulties if inhaled."
+  },
+  {
+   "code": "H335",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.836400",
+   "name": "H335",
+   "phrase": "May cause respiratory irritation."
+  },
+  {
+   "code": "H336",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.848215",
+   "name": "H336",
+   "phrase": "May cause drowsiness or dizziness."
+  },
+  {
+   "code": "H340",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.859539",
+   "name": "H340",
+   "phrase": "May cause genetic defects (state route of exposure if it is conclusively proven that no other routes of exposure cause the hazard)."
+  },
+  {
+   "code": "H341",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.872046",
+   "name": "H341",
+   "phrase": "Suspected of causing genetic defects (state route of exposure if it is conclusively proven that no other routes of exposure cause the hazard)."
+  },
+  {
+   "code": "H350",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.885494",
+   "name": "H350",
+   "phrase": "May cause cancer (state route of exposure if it is conclusively proven that no other routes of exposure cause the hazard)."
+  },
+  {
+   "code": "H350i",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.897243",
+   "name": "H350i",
+   "phrase": "May cause cancer by inhalation."
+  },
+  {
+   "code": "H351",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.908696",
+   "name": "H351",
+   "phrase": "Suspected of causing cancer (state route of exposure if it is conclusively proven that no other routes of exposure cause the hazard)."
+  },
+  {
+   "code": "H360",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:34:16.685660",
+   "name": "H360",
+   "phrase": "May damage fertility or the unborn child (state specific effect if known) (state route of exposure if it is conclusively proven that no other routes of exposure cause the hazard)."
+  },
+  {
+   "code": "H360D",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 00:37:19.318366",
+   "name": "H360D",
+   "phrase": "May damage the unborn child."
+  },
+  {
+   "code": "H360Df",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-23 22:09:01.950693",
+   "name": "H360Df",
+   "phrase": "May damage the unborn child. Suspected of damaging fertility. "
+  },
+  {
+   "code": "H360F",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 00:37:24.475614",
+   "name": "H360F",
+   "phrase": "May damage fertility."
+  },
+  {
+   "code": "H360FD",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:38.970577",
+   "name": "H360FD",
+   "phrase": "May damage fertility. Suspected of damaging the unborn child. "
+  },
+  {
+   "code": "H361",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:34:16.785721",
+   "name": "H361",
+   "phrase": "Suspected of damaging fertility or the unborn child (state specific effect if known) (state route of exposure if it is conclusively proven that no other routes of exposure cause the hazard)."
+  },
+  {
+   "code": "H361f",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:39.000953",
+   "name": "H361f",
+   "phrase": "Suspected of damaging fertility."
+  },
+  {
+   "code": "H361fd",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-23 22:09:02.044713",
+   "name": "H361fd",
+   "phrase": "Suspected of damaging fertility. Suspected of damaging the unborn child. "
+  },
+  {
+   "code": "H362",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:39.017468",
+   "name": "H362",
+   "phrase": "May cause harm to breast-fed children."
+  },
+  {
+   "code": "H370",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:34:16.813118",
+   "name": "H370",
+   "phrase": "Causes damage to organs (or state all organs affected, if known) (state route of exposure if it is conclusively proven that no other routes of exposure cause the hazard)."
+  },
+  {
+   "code": "H371",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:34:16.828536",
+   "name": "H371",
+   "phrase": "May cause damage to organs (or state all organs affected, if known) (state route of exposure if it is conclusively proven that no other routes of exposure cause the hazard)."
+  },
+  {
+   "code": "H372",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:35:41.078220",
+   "name": "H372",
+   "phrase": "Causes damage to organs (or state all organs affected, if known) through prolonged or repeated exposure (state route of exposure if it is conclusively proven that no other routes of exposure cause the hazard)."
+  },
+  {
+   "code": "H373",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:35:41.118328",
+   "name": "H373",
+   "phrase": "May cause damage to organs (or state all organs affected, if known) through prolonged or repeated exposure (state route of exposure if it is conclusively proven that no other routes of exposure cause the hazard)."
+  },
+  {
+   "code": "H400",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:39.069709",
+   "name": "H400",
+   "phrase": "Very toxic to aquatic life."
+  },
+  {
+   "code": "H410",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:39.085281",
+   "name": "H410",
+   "phrase": "Very toxic to aquatic life with long lasting effects."
+  },
+  {
+   "code": "H411",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:39.100529",
+   "name": "H411",
+   "phrase": "Toxic to aquatic life with long lasting effects."
+  },
+  {
+   "code": "H412",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:39.112771",
+   "name": "H412",
+   "phrase": "Harmful to aquatic life with long lasting effects."
+  },
+  {
+   "code": "H413",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:39.124590",
+   "name": "H413",
+   "phrase": "May cause long lasting harmful effects to aquatic life."
+  },
+  {
+   "code": "H420",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:39.138924",
+   "name": "H420",
+   "phrase": "Harms public health and the environment by destroying ozone in the upper atmosphere."
+  },
+  {
+   "code": "EUH014",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:39.165259",
+   "name": "EUH014",
+   "phrase": "Reacts violently with water."
+  },
+  {
+   "code": "EUH018",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:39.181461",
+   "name": "EUH018",
+   "phrase": "In use may form flammable/explosive vapour-air mixture."
+  },
+  {
+   "code": "EUH019",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:39.196026",
+   "name": "EUH019",
+   "phrase": "May form explosive peroxides."
+  },
+  {
+   "code": "EUH044",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:39.256736",
+   "name": "EUH044",
+   "phrase": "Risk of explosion if heated under confinement."
+  },
+  {
+   "code": "EUH029",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:39.211588",
+   "name": "EUH029",
+   "phrase": "Contact with water liberates toxic gas."
+  },
+  {
+   "code": "EUH031",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:39.228648",
+   "name": "EUH031",
+   "phrase": "Contact with acids liberates toxic gas."
+  },
+  {
+   "code": "EUH032",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:39.242639",
+   "name": "EUH032",
+   "phrase": "Contact with acids liberates very toxic gas."
+  },
+  {
+   "code": "EUH066",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:39.273544",
+   "name": "EUH066",
+   "phrase": "Repeated exposure may cause skin dryness or cracking."
+  },
+  {
+   "code": "EUH070",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:39.286895",
+   "name": "EUH070",
+   "phrase": "Toxic by eye contact."
+  },
+  {
+   "code": "EUH071",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:39.300160",
+   "name": "EUH071",
+   "phrase": "Corrosive to the respiratory tract."
+  },
+  {
+   "code": "EUH201",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-23 22:09:02.379686",
+   "name": "EUH201",
+   "phrase": "Contains lead. Should not be used on surfaces liable to be chewed or sucked by children. "
+  },
+  {
+   "code": "EUH201A",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-23 22:09:02.395522",
+   "name": "EUH201A",
+   "phrase": "Warning! Contains lead."
+  },
+  {
+   "code": "EUH202",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-23 22:09:02.414350",
+   "name": "EUH202",
+   "phrase": "Cyanoacrylate. Danger. Bonds skin and eyes in seconds. Keep out of the reach of children."
+  },
+  {
+   "code": "EUH203",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-23 22:09:02.432773",
+   "name": "EUH203",
+   "phrase": "Contains chromium(VI). May produce an allergic reaction."
+  },
+  {
+   "code": "EUH204",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-23 22:09:02.449540",
+   "name": "EUH204",
+   "phrase": "Contains isocyanates. May produce an allergic reaction."
+  },
+  {
+   "code": "EUH205",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-23 22:09:02.460917",
+   "name": "EUH205",
+   "phrase": "Contains epoxy constituents. May produce an allergic reaction."
+  },
+  {
+   "code": "EUH206",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-23 22:09:02.475293",
+   "name": "EUH206",
+   "phrase": "Warning! Do not use together with other products. May release dangerous gases (chlorine)."
+  },
+  {
+   "code": "EUH208",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 02:29:39.370325",
+   "name": "EUH208",
+   "phrase": "Contains (name of sensitising substance). May produce an allergic reaction."
+  },
+  {
+   "code": "EUH209",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-23 22:09:02.576243",
+   "name": "EUH209",
+   "phrase": "Can become highly flammable in use."
+  },
+  {
+   "code": "EUH209A",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-23 22:09:02.593643",
+   "name": "EUH209A",
+   "phrase": "Can become flammable in use."
+  },
+  {
+   "code": "EUH210",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-23 22:09:02.608378",
+   "name": "EUH210",
+   "phrase": "Safety data sheet available on request."
+  },
+  {
+   "code": "EUH401",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-23 22:09:02.633203",
+   "name": "EUH401",
+   "phrase": "To avoid risks to human health and the environment, comply with the instructions for use."
+  },
+  {
+   "code": "EUH207",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-23 22:14:36.543370",
+   "name": "EUH207",
+   "phrase": "Warning! Contains cadmium. Dangerous fumes are formed during use. See information supplied by the manufacturer. Comply with the safety instructions."
+  },
+  {
+   "code": "H360Fd_",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 00:40:15.992303",
+   "name": "H360Fd_",
+   "phrase": "May damage fertility. Suspected of damaging the unborn child."
+  },
+  {
+   "code": "EUH001",
+   "docstatus": 0,
+   "doctype": "Hazard Statement",
+   "modified": "2023-05-24 21:39:59.779546",
+   "name": "EUH001",
+   "phrase": "Explosive when dry."
+  }
+]

@@ -1,0 +1,1026 @@
+[
+  {
+   "code": "P280",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:19:37.251803",
+   "name": "P280",
+   "phrase": "Wear protective gloves/protective clothing/eye protection/face protection."
+  },
+  {
+   "code": "P301+P330+P331",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:18:53.703330",
+   "name": "P301+P330+P331",
+   "phrase": "IF SWALLOWED: Rinse mouth. Do NOT induce vomiting."
+  },
+  {
+   "code": "P305+H351+H338",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:18:24.496355",
+   "name": "P305+H351+H338",
+   "phrase": "IF IN EYES: Rinse continuously with water for several minutes. Remove contact lenses if present and easy to do. Continue rinsing."
+  },
+  {
+   "code": "P310",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:38:00.346047",
+   "name": "P310",
+   "phrase": "Immediately call a POISON CENTER/doctor/\u2026"
+  },
+  {
+   "code": "P101",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:41.409149",
+   "name": "P101",
+   "phrase": "If medical advice is needed, have product container or label at hand."
+  },
+  {
+   "code": "P102",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:41.441243",
+   "name": "P102",
+   "phrase": "Keep out of reach of children."
+  },
+  {
+   "code": "P103",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:41.449957",
+   "name": "P103",
+   "phrase": "Read label before use."
+  },
+  {
+   "code": "P201",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:41.459144",
+   "name": "P201",
+   "phrase": "Obtain special instructions before use."
+  },
+  {
+   "code": "P202",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:41.470290",
+   "name": "P202",
+   "phrase": "Do not handle until all safety precautions have been read and understood."
+  },
+  {
+   "code": "P210",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:41.480342",
+   "name": "P210",
+   "phrase": "Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking."
+  },
+  {
+   "code": "P211",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:41.491274",
+   "name": "P211",
+   "phrase": "Do not spray on an open flame or other ignition source."
+  },
+  {
+   "code": "P220",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:37:59.715300",
+   "name": "P220",
+   "phrase": "Keep away from clothing and other combustible materials."
+  },
+  {
+   "code": "P222",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:41.540873",
+   "name": "P222",
+   "phrase": "Do not allow contact with air."
+  },
+  {
+   "code": "P223",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:41.558085",
+   "name": "P223",
+   "phrase": "Do not allow contact with water."
+  },
+  {
+   "code": "P230",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:37:59.784184",
+   "name": "P230",
+   "phrase": "Keep wetted with\u2026"
+  },
+  {
+   "code": "P231",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:41.591904",
+   "name": "P231",
+   "phrase": "Handle and store contents under inert gas/\u2026"
+  },
+  {
+   "code": "P231+P232",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:37:59.809790",
+   "name": "P231+P232",
+   "phrase": "Handle and store contents under inert gas/\u2026 Protect from moisture."
+  },
+  {
+   "code": "P232",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:41.636394",
+   "name": "P232",
+   "phrase": "Protect from moisture."
+  },
+  {
+   "code": "P233",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:41.650083",
+   "name": "P233",
+   "phrase": "Keep container tightly closed."
+  },
+  {
+   "code": "P234",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:37:59.839594",
+   "name": "P234",
+   "phrase": "Keep only in original packaging."
+  },
+  {
+   "code": "P235",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:41.671501",
+   "name": "P235",
+   "phrase": "Keep cool."
+  },
+  {
+   "code": "P240",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:41.696189",
+   "name": "P240",
+   "phrase": "Ground and bond container and receiving equipment."
+  },
+  {
+   "code": "P241",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:37:59.871276",
+   "name": "P241",
+   "phrase": "Use explosion-proof [electrical/ventilating/light/\u2026] equipment."
+  },
+  {
+   "code": "P242",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:37:59.886606",
+   "name": "P242",
+   "phrase": "Use non-sparking tools."
+  },
+  {
+   "code": "P243",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:41.746459",
+   "name": "P243",
+   "phrase": "Take action to prevent static discharges."
+  },
+  {
+   "code": "P244",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:37:59.912742",
+   "name": "P244",
+   "phrase": "Keep valves and fittings free from oil and grease."
+  },
+  {
+   "code": "P250",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:37:59.928924",
+   "name": "P250",
+   "phrase": "Do not subject to grinding/shock/friction/\u2026"
+  },
+  {
+   "code": "P251",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:37:59.945786",
+   "name": "P251",
+   "phrase": "Do not pierce or burn, even after use."
+  },
+  {
+   "code": "P260",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:41.798576",
+   "name": "P260",
+   "phrase": "Do not breathe dust/fume/gas/mist/vapours/spray."
+  },
+  {
+   "code": "P261",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:41.809827",
+   "name": "P261",
+   "phrase": "Avoid breathing dust/fume/gas/mist/vapours/spray."
+  },
+  {
+   "code": "P262",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:41.819417",
+   "name": "P262",
+   "phrase": "Do not get in eyes, on skin, or on clothing."
+  },
+  {
+   "code": "P263",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:41.835583",
+   "name": "P263",
+   "phrase": "Avoid contact during pregnancy and while nursing."
+  },
+  {
+   "code": "P264",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:41.849418",
+   "name": "P264",
+   "phrase": "Wash \u2026 thoroughly after handling."
+  },
+  {
+   "code": "P270",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:41.859844",
+   "name": "P270",
+   "phrase": "Do not eat, drink or smoke when using this product."
+  },
+  {
+   "code": "P271",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:41.868152",
+   "name": "P271",
+   "phrase": "Use only outdoors or in a well-ventilated area."
+  },
+  {
+   "code": "P272",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:41.876928",
+   "name": "P272",
+   "phrase": "Contaminated work clothing should not be allowed out of the workplace."
+  },
+  {
+   "code": "P273",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:41.889270",
+   "name": "P273",
+   "phrase": "Avoid release to the environment."
+  },
+  {
+   "code": "P282",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:41.934060",
+   "name": "P282",
+   "phrase": "Wear cold insulating gloves and either face shield or eye protection."
+  },
+  {
+   "code": "P283",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:41.946906",
+   "name": "P283",
+   "phrase": "Wear fire resistant or flame retardant clothing."
+  },
+  {
+   "code": "P284",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:38:00.088929",
+   "name": "P284",
+   "phrase": "[In case of inadequate ventilation] wear respiratory protection."
+  },
+  {
+   "code": "P301",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:41.996263",
+   "name": "P301",
+   "phrase": "IF SWALLOWED:"
+  },
+  {
+   "code": "P301+P310",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:38:00.113711",
+   "name": "P301+P310",
+   "phrase": "IF SWALLOWED: Immediately call a POISON CENTER/doctor/\u2026"
+  },
+  {
+   "code": "P301+P312",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:38:00.131471",
+   "name": "P301+P312",
+   "phrase": "IF SWALLOWED: Call a POISON CENTER/doctor/\u2026 if you feel unwell."
+  },
+  {
+   "code": "P302",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.042513",
+   "name": "P302",
+   "phrase": "IF ON SKIN:"
+  },
+  {
+   "code": "P302+P334",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:38:00.169094",
+   "name": "P302+P334",
+   "phrase": "IF ON SKIN: Immerse in cool water [or wrap in wet bandages]."
+  },
+  {
+   "code": "P302+P352",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:38:00.196756",
+   "name": "P302+P352",
+   "phrase": "IF ON SKIN: Wash with plenty of water/\u2026"
+  },
+  {
+   "code": "P303",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.104479",
+   "name": "P303",
+   "phrase": "IF ON SKIN (or hair):"
+  },
+  {
+   "code": "P303+P361+P353",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:38:00.219694",
+   "name": "P303+P361+P353",
+   "phrase": "IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water [or shower]."
+  },
+  {
+   "code": "P304",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.126625",
+   "name": "P304",
+   "phrase": "IF INHALED:"
+  },
+  {
+   "code": "P304+P340",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:38:00.244103",
+   "name": "P304+P340",
+   "phrase": "IF INHALED: Remove person to fresh air and keep comfortable for breathing."
+  },
+  {
+   "code": "P305",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.174743",
+   "name": "P305",
+   "phrase": "IF IN EYES:"
+  },
+  {
+   "code": "P305+P351+P338",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:38:00.270050",
+   "name": "P305+P351+P338",
+   "phrase": "IF IN EYES: Rinse continuously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing."
+  },
+  {
+   "code": "P306",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.201998",
+   "name": "P306",
+   "phrase": "IF ON CLOTHING:"
+  },
+  {
+   "code": "P306+P360",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.213039",
+   "name": "P306+P360",
+   "phrase": "IF ON CLOTHING: Rinse immediately contaminated clothing and skin with plenty of water before removing clothes."
+  },
+  {
+   "code": "P308",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.245143",
+   "name": "P308",
+   "phrase": "IF exposed or concerned:"
+  },
+  {
+   "code": "P308+P311",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:38:00.315847",
+   "name": "P308+P311",
+   "phrase": "IF exposed or concerned: Call a POISON CENTER/doctor/\u2026"
+  },
+  {
+   "code": "P308+P313",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.265279",
+   "name": "P308+P313",
+   "phrase": "IF exposed or concerned: Get medical advice/attention."
+  },
+  {
+   "code": "P311",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:38:00.361569",
+   "name": "P311",
+   "phrase": "Call a POISON CENTER/doctor/\u2026"
+  },
+  {
+   "code": "P312",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:38:00.379602",
+   "name": "P312",
+   "phrase": "Call a POISON CENTER/doctor/\u2026 if you feel unwell."
+  },
+  {
+   "code": "P313",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.341252",
+   "name": "P313",
+   "phrase": "Get medical advice/attention."
+  },
+  {
+   "code": "P314",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.351123",
+   "name": "P314",
+   "phrase": "Get Medical advice/attention if you feel unwell."
+  },
+  {
+   "code": "P315",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.362543",
+   "name": "P315",
+   "phrase": "Get immediate medical advice/attention."
+  },
+  {
+   "code": "P320",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.372670",
+   "name": "P320",
+   "phrase": "Specific treatment is urgent (see \u2026 on this label)."
+  },
+  {
+   "code": "P321",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.383275",
+   "name": "P321",
+   "phrase": "Specific treatment (see \u2026 on this label)."
+  },
+  {
+   "code": "P330",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.402223",
+   "name": "P330",
+   "phrase": "Rinse mouth."
+  },
+  {
+   "code": "P331",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.412227",
+   "name": "P331",
+   "phrase": "Do NOT induce vomiting."
+  },
+  {
+   "code": "P332",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.421697",
+   "name": "P332",
+   "phrase": "If skin irritation occurs:"
+  },
+  {
+   "code": "P332+P313",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.432835",
+   "name": "P332+P313",
+   "phrase": "If skin irritation occurs: Get medical advice/attention."
+  },
+  {
+   "code": "P333",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:38:00.500245",
+   "name": "P333",
+   "phrase": "If skin irritation or rash occurs:"
+  },
+  {
+   "code": "P333+P313",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:38:00.519370",
+   "name": "P333+P313",
+   "phrase": "If skin irritation or rash occurs: Get medical advice/attention."
+  },
+  {
+   "code": "P334",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.468097",
+   "name": "P334",
+   "phrase": "Immerse in cool water [or wrap in wet bandages]."
+  },
+  {
+   "code": "P335",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.478958",
+   "name": "P335",
+   "phrase": "Brush off loose particles from skin."
+  },
+  {
+   "code": "P336",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:38:00.551942",
+   "name": "P336",
+   "phrase": "Thaw frosted parts with lukewarm water. Do not rub affected area."
+  },
+  {
+   "code": "P337",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.521524",
+   "name": "P337",
+   "phrase": "If eye irritation persists:"
+  },
+  {
+   "code": "P337+P313",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.539580",
+   "name": "P337+P313",
+   "phrase": "If eye irritation persists: Get medical advice/attention."
+  },
+  {
+   "code": "P338",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:38:00.590218",
+   "name": "P338",
+   "phrase": "Remove contact lenses, if present and easy to do. Continue rinsing."
+  },
+  {
+   "code": "P340",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:38:00.604712",
+   "name": "P340",
+   "phrase": "Remove person to fresh air and keep comfortable for breathing."
+  },
+  {
+   "code": "P342",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.594008",
+   "name": "P342",
+   "phrase": "If experiencing respiratory symptoms:"
+  },
+  {
+   "code": "P342+P311",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:38:00.630808",
+   "name": "P342+P311",
+   "phrase": "If experiencing respiratory symptoms: Call a POISON CENTER/doctor/\u2026"
+  },
+  {
+   "code": "P351",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.628968",
+   "name": "P351",
+   "phrase": "Rinse cautiously with water for several minutes."
+  },
+  {
+   "code": "P352",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:38:00.654737",
+   "name": "P352",
+   "phrase": "Wash with plenty of water/\u2026"
+  },
+  {
+   "code": "P353",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.652152",
+   "name": "P353",
+   "phrase": "Rinse skin with water [or shower]."
+  },
+  {
+   "code": "P360",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.671360",
+   "name": "P360",
+   "phrase": "Rinse immediately contaminated clothing and skin with plenty of water before removing clothes."
+  },
+  {
+   "code": "P361",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:38:00.690379",
+   "name": "P361",
+   "phrase": "Take off immediately all contaminated clothing."
+  },
+  {
+   "code": "P361+P364",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.704002",
+   "name": "P361+P364",
+   "phrase": "Take off immediately all contaminated clothing and wash it before reuse."
+  },
+  {
+   "code": "P362",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.719031",
+   "name": "P362",
+   "phrase": "Take off contaminated clothing."
+  },
+  {
+   "code": "P362+P364",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.729612",
+   "name": "P362+P364",
+   "phrase": "Take off contaminated clothing and wash it before reuse."
+  },
+  {
+   "code": "P363",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.739652",
+   "name": "P363",
+   "phrase": "Wash contaminated clothing before reuse."
+  },
+  {
+   "code": "P364",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.750893",
+   "name": "P364",
+   "phrase": "And wash it before reuse."
+  },
+  {
+   "code": "P370",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.762035",
+   "name": "P370",
+   "phrase": "In case of fire:"
+  },
+  {
+   "code": "P370+P376",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.777209",
+   "name": "P370+P376",
+   "phrase": "In case of fire: Stop leak if safe to do so."
+  },
+  {
+   "code": "P370+P378",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.793180",
+   "name": "P370+P378",
+   "phrase": "In case of fire: Use \u2026 to extinguish."
+  },
+  {
+   "code": "P370+P380+P375",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.817683",
+   "name": "P370+P380+P375",
+   "phrase": "In case of fire: Evacuate area. Fight fire remotely due to the risk of explosion."
+  },
+  {
+   "code": "P371",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.830510",
+   "name": "P371",
+   "phrase": "In case of major fire and large quantities:"
+  },
+  {
+   "code": "P371+P380+P375",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.840908",
+   "name": "P371+P380+P375",
+   "phrase": "In case of major fire and large quantities: Evacuate area. Fight fire remotely due to the risk of explosion."
+  },
+  {
+   "code": "P372",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.865137",
+   "name": "P372",
+   "phrase": "Explosion risk."
+  },
+  {
+   "code": "P373",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.886951",
+   "name": "P373",
+   "phrase": "DO NOT fight fire when fire reaches explosives."
+  },
+  {
+   "code": "P375",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.916443",
+   "name": "P375",
+   "phrase": "Fight fire remotely due to the risk of explosion."
+  },
+  {
+   "code": "P376",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.928259",
+   "name": "P376",
+   "phrase": "Stop leak if safe to do so."
+  },
+  {
+   "code": "P377",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:38:00.856034",
+   "name": "P377",
+   "phrase": "Leaking gas fire: Do not extinguish, unless leak can be stopped safely."
+  },
+  {
+   "code": "P378",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.954642",
+   "name": "P378",
+   "phrase": "Use \u2026 to extinguish."
+  },
+  {
+   "code": "P380",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.965333",
+   "name": "P380",
+   "phrase": "Evacuate area."
+  },
+  {
+   "code": "P381",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.976687",
+   "name": "P381",
+   "phrase": "In case of leakage, eliminate all ignition sources."
+  },
+  {
+   "code": "P391",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:42.989354",
+   "name": "P391",
+   "phrase": "Collect spillage."
+  },
+  {
+   "code": "P401",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:38:00.918436",
+   "name": "P401",
+   "phrase": "Store in accordance with\u2026"
+  },
+  {
+   "code": "P402",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:43.011932",
+   "name": "P402",
+   "phrase": "Store in a dry place."
+  },
+  {
+   "code": "P402+P404",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:43.022474",
+   "name": "P402+P404",
+   "phrase": "Store in a dry place. Store in a closed container."
+  },
+  {
+   "code": "P403",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:38:00.950613",
+   "name": "P403",
+   "phrase": "Store in a well-ventilated place."
+  },
+  {
+   "code": "P403+P233",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:38:00.968677",
+   "name": "P403+P233",
+   "phrase": "Store in a well-ventilated place. Keep container tightly closed."
+  },
+  {
+   "code": "P403+P235",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:38:00.992527",
+   "name": "P403+P235",
+   "phrase": "Store in a well-ventilated place. Keep cool."
+  },
+  {
+   "code": "P404",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:43.064505",
+   "name": "P404",
+   "phrase": "Store in a closed container."
+  },
+  {
+   "code": "P405",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:43.083615",
+   "name": "P405",
+   "phrase": "Store locked up."
+  },
+  {
+   "code": "P406",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:43.097006",
+   "name": "P406",
+   "phrase": "Store in a corrosive resistant/\u2026 container with a resistant inner liner."
+  },
+  {
+   "code": "P407",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:43.108218",
+   "name": "P407",
+   "phrase": "Maintain air gap between stacks or pallets."
+  },
+  {
+   "code": "P410",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:43.119093",
+   "name": "P410",
+   "phrase": "Protect from sunlight."
+  },
+  {
+   "code": "P410+P403",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:38:01.061617",
+   "name": "P410+P403",
+   "phrase": "Protect from sunlight. Store in a well-ventilated place."
+  },
+  {
+   "code": "P410+P412",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:38:01.080458",
+   "name": "P410+P412",
+   "phrase": "Protect from sunlight. Do not expose to temperatures exceeding 50 \u00baC/122\u00baF."
+  },
+  {
+   "code": "P411",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:38:01.098676",
+   "name": "P411",
+   "phrase": "Store at temperatures not exceeding \u2026 \u00baC/\u2026\u00baF."
+  },
+  {
+   "code": "P412",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:38:01.117696",
+   "name": "P412",
+   "phrase": "Do not expose to temperatures exceeding 50\u00baC/122\u00baF."
+  },
+  {
+   "code": "P413",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:38:01.142120",
+   "name": "P413",
+   "phrase": "Store bulk masses greater than \u2026 kg/\u2026 lbs at temperatures not exceeding \u2026 \u00b0C/\u2026\u00b0F."
+  },
+  {
+   "code": "P420",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:38:01.161701",
+   "name": "P420",
+   "phrase": "Store separately."
+  },
+  {
+   "code": "P501",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:43.231980",
+   "name": "P501",
+   "phrase": "Dispose of contents/container to \u2026"
+  },
+  {
+   "code": "P502",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-23 22:45:43.245273",
+   "name": "P502",
+   "phrase": "Refer to manufacturer or supplier for information on recovery or recycling."
+  },
+  {
+   "code": "P302+P335+P334",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:39:22.703834",
+   "name": "P302+P335+P334",
+   "phrase": "IF ON SKIN: Brush off loose particles from skin. Immerse in cool water [or wrap in wet bandages]."
+  },
+  {
+   "code": "P336+P315",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:40:03.586735",
+   "name": "P336+P315",
+   "phrase": "Thaw frosted parts with lukewarm water. Do not rub affected area. Get immediate medical advice/attention."
+  },
+  {
+   "code": "P370+P372+P380+P373",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:40:38.493096",
+   "name": "P370+P372+P380+P373",
+   "phrase": "In case of fire: Explosion risk. Evacuate area. DO NOT fight fire when fire reaches explosives."
+  },
+  {
+   "code": "P370+P380+P375+P378",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:41:34.598015",
+   "name": "P370+P380+P375+P378",
+   "phrase": "In case of fire: Evacuate area. Fight fire remotely due to the risk of explosion. Use \u2026 to extinguish."
+  },
+  {
+   "code": "P390",
+   "docstatus": 0,
+   "doctype": "Precautionary Statement",
+   "modified": "2023-05-24 02:42:18.928100",
+   "name": "P390",
+   "phrase": "Absorb spillage to prevent material damage."
+  }
+]

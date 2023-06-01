@@ -4,4 +4,4 @@ This App allows easy management of hazardous item properties.
 
 #### License
 
-MIT
+GPLv3

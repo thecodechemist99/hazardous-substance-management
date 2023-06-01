@@ -4,10 +4,10 @@ app_name = "hazardous_item_management"
 app_title = "Hazardous Item Management"
 app_publisher = "Florian Beck"
 app_description = "This app allows easy management of item’s hazardous substance properties in accordance with GHS/CLP."
-app_icon = "shield-24"
+app_icon = "octicon shield-24"
 app_email = "florian.beck@nakt.eu"
 app_version = "0.0.1"
-app_license = "MIT"
+app_license = "GPLv3"
 
 # Includes in <head>
 # ------------------

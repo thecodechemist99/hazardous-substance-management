@@ -7,7 +7,7 @@ with open("requirements.txt") as f:
 from hazardous_item_management import __version__ as version
 
 setup(
-	name="hazardous_item_management",
+	name="hazardous_substance_management",
 	version=version,
 	description="This App allows easy management of hazardous item properties.",
 	author="Florian Beck",

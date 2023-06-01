@@ -3,5 +3,5 @@
 *.egg-info
 *.swp
 tags
-hazardous_item_management/docs/current
+hazardous_substance_management/docs/current
 node_modules/

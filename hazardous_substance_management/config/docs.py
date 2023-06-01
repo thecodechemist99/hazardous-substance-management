@@ -2,9 +2,9 @@
 Configuration for docs
 """
 
-# source_link = "https://github.com/[org_name]/hazardous_item_management"
+# source_link = "https://github.com/[org_name]/hazardous_substance_management"
 # headline = "App that does everything"
 # sub_heading = "Yes, you got that right the first time, everything"
 
 def get_context(context):
-	context.brand_html = "Hazardous Item Management"
+	context.brand_html = "Hazardous Substance Management"

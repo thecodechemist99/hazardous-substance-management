@@ -1,9 +1,9 @@
 from . import __version__ as app_version
 
-app_name = "hazardous_item_management"
-app_title = "Hazardous Item Management"
+app_name = "hazardous_substance_management"
+app_title = "Hazardous substance Management"
 app_publisher = "Florian Beck"
-app_description = "This app allows easy management of item’s hazardous substance properties in accordance with GHS/CLP."
+app_description = "This app allows easy management of substance’s hazardous substance properties in accordance with GHS/CLP."
 app_icon = "octicon shield-24"
 app_email = "florian.beck@nakt.eu"
 app_version = "0.0.1"
@@ -13,15 +13,15 @@ app_license = "GPLv3"
 # ------------------
 
 # include js, css files in header of desk.html
-# app_include_css = "/assets/hazardous_item_management/css/hazardous_item_management.css"
-# app_include_js = "/assets/hazardous_item_management/js/hazardous_item_management.js"
+# app_include_css = "/assets/hazardous_substance_management/css/hazardous_substance_management.css"
+# app_include_js = "/assets/hazardous_substance_management/js/hazardous_substance_management.js"
 
 # include js, css files in header of web template
-# web_include_css = "/assets/hazardous_item_management/css/hazardous_item_management.css"
-# web_include_js = "/assets/hazardous_item_management/js/hazardous_item_management.js"
+# web_include_css = "/assets/hazardous_substance_management/css/hazardous_substance_management.css"
+# web_include_js = "/assets/hazardous_substance_management/js/hazardous_substance_management.js"
 
 # include custom scss in every website theme (without file extension ".scss")
-# website_theme_scss = "hazardous_item_management/public/scss/website"
+# website_theme_scss = "hazardous_substance_management/public/scss/website"
 
 # include js, css files in header of web form
 # webform_include_js = {"doctype": "public/js/doctype.js"}
@@ -58,27 +58,27 @@ app_license = "GPLv3"
 
 # add methods and filters to jinja environment
 # jinja = {
-#	"methods": "hazardous_item_management.utils.jinja_methods",
-#	"filters": "hazardous_item_management.utils.jinja_filters"
+#	"methods": "hazardous_substance_management.utils.jinja_methods",
+#	"filters": "hazardous_substance_management.utils.jinja_filters"
 # }
 
 # Installation
 # ------------
 
-# before_install = "hazardous_item_management.install.before_install"
-# after_install = "hazardous_item_management.install.after_install"
+# before_install = "hazardous_substance_management.install.before_install"
+# after_install = "hazardous_substance_management.install.after_install"
 
 # Uninstallation
 # ------------
 
-# before_uninstall = "hazardous_item_management.uninstall.before_uninstall"
-# after_uninstall = "hazardous_item_management.uninstall.after_uninstall"
+# before_uninstall = "hazardous_substance_management.uninstall.before_uninstall"
+# after_uninstall = "hazardous_substance_management.uninstall.after_uninstall"
 
 # Desk Notifications
 # ------------------
 # See frappe.core.notifications.get_notification_config
 
-# notification_config = "hazardous_item_management.notifications.get_notification_config"
+# notification_config = "hazardous_substance_management.notifications.get_notification_config"
 
 # Permissions
 # -----------
@@ -117,39 +117,39 @@ app_license = "GPLv3"
 
 # scheduler_events = {
 #	"all": [
-#		"hazardous_item_management.tasks.all"
+#		"hazardous_substance_management.tasks.all"
 #	],
 #	"daily": [
-#		"hazardous_item_management.tasks.daily"
+#		"hazardous_substance_management.tasks.daily"
 #	],
 #	"hourly": [
-#		"hazardous_item_management.tasks.hourly"
+#		"hazardous_substance_management.tasks.hourly"
 #	],
 #	"weekly": [
-#		"hazardous_item_management.tasks.weekly"
+#		"hazardous_substance_management.tasks.weekly"
 #	],
 #	"monthly": [
-#		"hazardous_item_management.tasks.monthly"
+#		"hazardous_substance_management.tasks.monthly"
 #	],
 # }
 
 # Testing
 # -------
 
-# before_tests = "hazardous_item_management.install.before_tests"
+# before_tests = "hazardous_substance_management.install.before_tests"
 
 # Overriding Methods
 # ------------------------------
 #
 # override_whitelisted_methods = {
-#	"frappe.desk.doctype.event.event.get_events": "hazardous_item_management.event.get_events"
+#	"frappe.desk.doctype.event.event.get_events": "hazardous_substance_management.event.get_events"
 # }
 #
 # each overriding function accepts a `data` argument;
 # generated from the base implementation of the doctype dashboard,
 # along with any modifications made in other Frappe apps
 # override_doctype_dashboards = {
-#	"Task": "hazardous_item_management.task.get_dashboard_data"
+#	"Task": "hazardous_substance_management.task.get_dashboard_data"
 # }
 
 # exempt linked doctypes from being automatically cancelled
@@ -163,13 +163,13 @@ app_license = "GPLv3"
 
 # Request Events
 # ----------------
-# before_request = ["hazardous_item_management.utils.before_request"]
-# after_request = ["hazardous_item_management.utils.after_request"]
+# before_request = ["hazardous_substance_management.utils.before_request"]
+# after_request = ["hazardous_substance_management.utils.after_request"]
 
 # Job Events
 # ----------
-# before_job = ["hazardous_item_management.utils.before_job"]
-# after_job = ["hazardous_item_management.utils.after_job"]
+# before_job = ["hazardous_substance_management.utils.before_job"]
+# after_job = ["hazardous_substance_management.utils.after_job"]
 
 # User Data Protection
 # --------------------
@@ -199,5 +199,5 @@ app_license = "GPLv3"
 # --------------------------------
 
 # auth_hooks = [
-#	"hazardous_item_management.auth.validate"
+#	"hazardous_substance_management.auth.validate"
 # ]

@@ -1,0 +1,61 @@
+{
+  "actions": [],
+  "autoname": "field:code",
+  "creation": "2023-06-01 18:13:00.000000",
+  "doctype": "DocType",
+  "editable_grid": 1,
+  "engine": "InnoDB",
+  "field_order": [
+   "code",
+   "phrase",
+   "preview"
+  ],
+  "fields": [
+   {
+    "fieldname": "code",
+    "fieldtype": "Data",
+    "in_list_view": 1,
+    "label": "Code",
+    "unique": 1
+   },
+   {
+    "fieldname": "phrase",
+    "fieldtype": "Data",
+    "in_list_view": 1,
+    "label": "Phrase",
+    "unique": 1
+   },
+   {
+    "fieldname": "preview",
+    "fieldtype": "HTML",
+    "label": "Preview",
+    "options": "<label class=\"control-label\" style=\"padding-right: 0px;\">\nPreview\n</label>\n<div class=\"control-input\">\n<input class=\"input-with-feedback form-control\" disabled type=\"text\" value=\"{{ doc.code }}: {{ doc.phrase }}\">\n<p class=\"help-box small text-muted\"></p>\n</div>"
+   }
+  ],
+  "index_web_pages_for_search": 1,
+  "istable": 0,
+  "links": [],
+  "modified": "2023-06-01 18:13:00.000000",
+  "modified_by": "Administrator",
+  "module": "Hazardous Substance Management",
+  "name": "Hazard Statement",
+  "owner": "Administrator",
+  "permissions": [
+    {
+      "create": 1,
+      "delete": 1,
+      "email": 1,
+      "export": 1,
+      "print": 1,
+      "read": 1,
+      "report": 1,
+      "role": "System Manager",
+      "share": 1,
+      "write": 1
+     }
+  ],
+  "sort_field": "modified",
+  "sort_order": "DESC",
+  "title_field": "code",
+  "track_changes": 1
+}

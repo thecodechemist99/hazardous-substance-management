@@ -1,0 +1,28 @@
+DocType: Signal Word,Danger,Gefahr
+DocType: Signal Word,Warning,Achtung
+DocType: GHS Pictogram,GHS Pictogram,GHS-Piktogramm
+DocType: GHS Pictogram,Explosive,Explodierende Bombe
+DocType: GHS Pictogram,Flammable,Flamme
+DocType: GHS Pictogram,Oxidizing,Flamme über einem Kreis
+DocType: GHS Pictogram,Compressed Gas,Gasflasche
+DocType: GHS Pictogram,Corrosive,Ätzwirkung
+DocType: GHS Pictogram,Toxic,Totenkopf mit gekreuzten Knochen
+DocType: GHS Pictogram,Harmful,Ausrufezeichen
+DocType: GHS Pictogram,Health hazard,Gesundheitsgefahr
+DocType: GHS Pictogram,Environmental hazard,Umwelt
+DocType: Hazard Statement,Hazard Statement,Gefahrenhinweis
+DocType: Hazard Statement,Phrase,Hinweis
+DocType: Hazard Statement,Preview,Vorschau
+DocType: Precautionary Statement,Precautionary Statement,Sicherheitshinweis
+DocType: Precautionary Statement,Phrase,Hinweis
+DocType: Precautionary Statement,Preview,Vorschau
+DocType: Item,Safety,Sicherheit
+DocType: Item,CAS No,CAS-Nr.
+DocType: Item,Auto Populate Fields,Felder automatisiert ausfüllen
+DocType: Item,Preview,Vorschau
+DocType: Item,Labelling,Kennzeichnung
+DocType: Item,Signal Word,Signalwort
+DocType: Item,GHS Pictograms,GHS-Piktogramme
+DocType: Item,Hazard and Safety Statements,Gefahren- und Sicherheitshinweise
+DocType: Item,Hazard Statements,Gefahrenhinweise
+DocType: Item,Precautionary Statements,Sicherheitshinweise

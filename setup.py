@@ -3,8 +3,8 @@ from setuptools import setup, find_packages
 with open("requirements.txt") as f:
 	install_requires = f.read().strip().split("\n")
 
-# get version from __version__ variable in hazardous_item_management/__init__.py
-from hazardous_item_management import __version__ as version
+# get version from __version__ variable in hazardous_substance_management/__init__.py
+from hazardous_substance_management import __version__ as version
 
 setup(
 	name="hazardous_substance_management",
